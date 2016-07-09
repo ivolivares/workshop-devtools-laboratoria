@@ -26,3 +26,9 @@ Existen cientos de DevTools. Hoy veremos:
 
 - Tomar notas en un archivo Markdown es genial, y más genial cuando se hace en Github! [Conoce que es Markdown](http://markdown.es/)
 - Ventajas de organizar las dependencias usando Node.js/npm [Link](http://es.stackoverflow.com/a/4175)
+
+
+------------------
+
+Made with :heart: and :computer:
+[@ivolivares](https://github.com/ivolivares)
