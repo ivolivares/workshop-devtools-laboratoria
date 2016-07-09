@@ -6,21 +6,22 @@
 
 Existen cientos de DevTools. Hoy veremos:
 
-- Node Package Manager (NPM)
-- Gulp
-- Bower
-- Browserify
-- Yeoman
+- [Node Package Manager (NPM)](NPM.md)
+- [Gulp](Gulp.md)
+- [Bower](Bower.md)
+- [Browserify](Browserify.md)
+- [Yeoman](Yeoman.md)
 
 ## Requisitos previos
 
 - Qué es JSON? [Link](http://www.json.org/json-es.html)
 - SemVer [Link](http://semver.org/lang/es/)
 - Instalar NodeJS versión LTS [Link](https://nodejs.org/en/)
-- Verificar que tengamos NPM y NodeJS
+- Verificar que tengamos NPM y NodeJS bien instalados
   `npm -v`
   `node -v`
-- Muchas ganas de aprender!
+
+- **Muchas ganas de aprender!**
 
 ### Tips
 

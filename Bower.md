@@ -4,13 +4,15 @@
 
 Y así, como NPM es el administrador de paquetes para NodeJS, tenemos a Bower para adminsitrar paquetes del lado del Front-End.
 
-
 ## Instalar Bower
 
 Lo instalamos con NPM:
 
     npm install -g bower
 
+## Comprobar instalación
+
+    bower -v
 
 ## Instalar Paquetes Bower
 
@@ -21,7 +23,6 @@ Como NPM la sintaxis es muy similar, para instalar cualquier paquete Bower harem
 ¿Y si quiero la versión anterior a la final de Bootstrap?
 
     bower install bootstrap#2.2
-
 
 ## bower.json
 

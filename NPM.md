@@ -10,15 +10,15 @@ En código, un package es una pieza de código que podemos reutilizar y NPM es u
 
 Importante: Como lo dice su nombre, **Node** Package Manager es el administrador de paquetes de NodeJS.
 
-# Links para revisar ahora
+## Links para revisar ahora
 
 [Package.json, una guía interactiva](http://browsenpm.org/package.json)
 
-# Ahora, pongamos las manos en la masa!
+## Ahora, pongamos las manos en la masa!
 
       npm init
 
-# Ejemplo NodeJS
+## Ejemplo NodeJS
 
       npm install -g nodemon
 
