@@ -23,15 +23,12 @@ module.exports = function(app) {
 
     // create todo and send back all todos after creation
     app.post('/api/todos', function(req, res) {
-
         Todo.create({
-            text: req.body.text,
-            done: false
+            text: req.body.text
         }, function(err, todo) {
             if (err) res.send(err);
             getTodos(res);
         });
-
     });
 
     // delete a todo
@@ -40,13 +37,12 @@ module.exports = function(app) {
             _id: req.params.todo_id
         }, function(err, todo) {
             if (err) res.send(err);
-
             getTodos(res);
         });
     });
 
-    // application -------------------------------------------------------------
-    app.get('/api/*', function(req, res) {
+    // application
+    app.get('/*', function(req, res) {
         res.send('Laboratoria TodoApp');
     });
 }; 

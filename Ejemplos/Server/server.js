@@ -5,16 +5,16 @@ var bodyParser = require('body-parser');
 var methodOverride = require('method-override');
 var database = require('./config/database');
 var app = express();
-var port = process.env.PORT || 8080;
 
-///mongoose.connect(database.localURL);
+mongoose.connect(database.localURL);
 
 app.use(morgan('dev'));
 app.use(bodyParser.urlencoded({'extended': 'true'}));
 app.use(bodyParser.json());
-
+app.disable('x-powered-by');
 
 require('./app/routes.js')(app);
 
+var port = process.env.PORT || 8080;
 app.listen(port);
 console.log("APP Initialized : http://localhost:" + port);

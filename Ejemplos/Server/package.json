@@ -9,9 +9,14 @@
     "mongoose": "^4.4.12",
     "morgan": "^1.1.1"
   },
+  "devDependencies": {
+    "nodemon" : "1.9.2"
+  },
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test" : "echo \"Error: no test specified\" && exit 1",
+    "start-dev": "nodemon --debug ./server.js",
+    "start" : "node server.js"
   },
   "author": "Iván Olivares R.",
   "license": "MIT"

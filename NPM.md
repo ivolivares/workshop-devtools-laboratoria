@@ -15,3 +15,9 @@ En código, un package es una pieza de código que podemos reutilizar y NPM es u
 # Ahora, pongamos las manos en la masa!
 
       npm init
+
+# Ejemplo NodeJS
+
+      npm install -g nodemon
+
+      npm install --save-dev nodemon
