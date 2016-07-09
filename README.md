@@ -1,6 +1,6 @@
 # Workshop de Development Tools
 
-#### Hoy haremos una app con un back-end en NodeJS y un Front-End en ES6.
+#### Hoy haremos una app con un back-end en NodeJS y un Front-End en [ES6](https://carlosazaustre.es/blog/ecmascript-6-el-nuevo-estandar-de-javascript/).
 
 ¿Qué son las DevTools? Son básicamente herramientas que nos ayudan a hacernos la vida más fácil al desarrollar aplicaciones front-end o back-end en JavaScript, obviamente :D
 
@@ -24,4 +24,4 @@ Existen cientos de DevTools. Hoy veremos:
 
 ### Tips
 
-- Tomar notas en un archivo Markdown es genial, y más genial cuando se hace en Github!
+- Tomar notas en un archivo Markdown es genial, y más genial cuando se hace en Github! [Conoce que es Markdown](http://markdown.es/)

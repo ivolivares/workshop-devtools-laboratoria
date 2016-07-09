@@ -8,6 +8,8 @@ No, no es solo una caja... pero si nos vamos al concepto más básico de "paquet
 
 En código, un package es una pieza de código que podemos reutilizar y NPM es un experto en proveer la administración de éstos. [[Conoce más en éste video](https://youtu.be/x03fjb2VlGY)]
 
+Importante: Como lo dice su nombre, **Node** Package Manager es el administrador de paquetes de NodeJS.
+
 # Links para revisar ahora
 
 [Package.json, una guía interactiva](http://browsenpm.org/package.json)
