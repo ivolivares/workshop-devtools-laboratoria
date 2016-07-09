@@ -1,4 +1,4 @@
-# Workshop de Development Tools
+# Workshop de Development Tools :open_mouth:
 
 #### Hoy haremos una app con un back-end en NodeJS y un Front-End con manejo de dependencias.
 
@@ -26,3 +26,16 @@ Existen cientos de DevTools. Hoy veremos:
 
 - Tomar notas en un archivo Markdown es genial, y más genial cuando se hace en Github! [Conoce que es Markdown](http://markdown.es/)
 - Ventajas de organizar las dependencias usando Node.js/npm [Link](http://es.stackoverflow.com/a/4175)
+
+Algunas aplicaciones útiles para el día a día:
+
+- [GetPocket](https://getpocket.com/a/queue/) : Para guardar links y acceder a éstos en todos lados.
+- [Google Keep](https://google.com/keep) : Para tomar notas y guardarlas online/offline.
+- [JSON Lint](http://jsonlint.com/) : Validador de formato de JSON.
+- [Emojis para Commit en Github](http://www.emoji-cheat-sheet.com/)
+
+
+------------------
+
+Made with :heart: and :computer:
+[@ivolivares](https://github.com/ivolivares)
