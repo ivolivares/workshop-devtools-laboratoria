@@ -22,4 +22,6 @@ Importante: Como lo dice su nombre, **Node** Package Manager es el administrador
 
       npm install -g nodemon
 
-      npm install --save-dev nodemon
+      npm install --save-dev gulp
+
+      npm install --save jquery
