@@ -1,4 +1,4 @@
-# Workshop de Development Tools
+# Workshop de Development Tools :open_mouth:
 
 #### Hoy haremos una app con un back-end en NodeJS y un Front-End con manejo de dependencias.
 
