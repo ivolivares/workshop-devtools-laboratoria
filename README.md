@@ -32,6 +32,7 @@ Algunas aplicaciones útiles para el día a día:
 - [GetPocket](https://getpocket.com/a/queue/) : Para guardar links y acceder a éstos en todos lados.
 - [Google Keep](https://google.com/keep) : Para tomar notas y guardarlas online/offline.
 - [JSON Lint](http://jsonlint.com/) : Validador de formato de JSON.
+- [Emojis para Commit en Github](http://www.emoji-cheat-sheet.com/)
 
 
 ------------------
