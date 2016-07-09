@@ -1,6 +1,6 @@
 # Bower
 
-![Bower](images/bower.png)
+[![Bower](images/bower.png)](https://bower.io/)
 
 Y así, como NPM es el administrador de paquetes para NodeJS, tenemos a Bower para adminsitrar paquetes del lado del Front-End.
 

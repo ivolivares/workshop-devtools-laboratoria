@@ -4,6 +4,7 @@ var morgan = require('morgan');
 var bodyParser = require('body-parser');
 var methodOverride = require('method-override');
 var database = require('./config/database');
+var cors = require('./config/cors');
 var app = express();
 
 mongoose.connect(database.localURL);
@@ -11,6 +12,7 @@ mongoose.connect(database.localURL);
 app.use(morgan('dev'));
 app.use(bodyParser.urlencoded({'extended': 'true'}));
 app.use(bodyParser.json());
+app.use(cors);
 app.disable('x-powered-by');
 
 require('./app/routes.js')(app);

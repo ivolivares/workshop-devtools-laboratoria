@@ -1,8 +1,8 @@
 # Node Package Manager
 
-Primero entendamos ¿Qué es un package?
+[![Package](images/npm.svg)](https://www.npmjs.com/)
 
-![Package](images/packages.jpg)
+## Primero entendamos ¿Qué es un package?
 
 No, no es solo una caja... pero si nos vamos al concepto más básico de "paquetes" entenderemos que un paquete es una cosa que sirve para almacenar diferentes cosas sin importar su contenido. Eso es un Package!!
 

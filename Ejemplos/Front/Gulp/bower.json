@@ -1,0 +1,9 @@
+{
+  "name": "gulp-bower-example",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "underscore" : "1.8.3",
+    "jquery": "1.11.3"
+  }
+}

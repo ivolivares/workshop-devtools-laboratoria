@@ -1,0 +1,16 @@
+$primaryColor: #E4E4E4;
+$secondaryColor: #000000;
+
+body {
+  background: $primaryColor;
+}
+
+p {
+  color: $secondaryColor;
+}
+
+ul {
+  li {
+    color: red;
+  }
+}

@@ -1,8 +1,8 @@
 # Workshop de Development Tools
 
-#### Hoy haremos una app con un back-end en NodeJS y un Front-End en [ES6](https://carlosazaustre.es/blog/ecmascript-6-el-nuevo-estandar-de-javascript/).
+#### Hoy haremos una app con un back-end en NodeJS y un Front-End con manejo de dependencias.
 
-¿Qué son las DevTools? Son básicamente herramientas que nos ayudan a hacernos la vida más fácil al desarrollar aplicaciones front-end o back-end en JavaScript, obviamente :D
+¿Qué son las DevTools? Son básicamente herramientas que nos ayudan a hacernos la vida más fácil al desarrollar aplicaciones front-end o back-end en JavaScript :smile:
 
 Existen cientos de DevTools. Hoy veremos:
 
@@ -10,7 +10,6 @@ Existen cientos de DevTools. Hoy veremos:
 - [Gulp](Gulp.md)
 - [Bower](Bower.md)
 - [Browserify](Browserify.md)
-- [Yeoman](Yeoman.md)
 
 ## Requisitos previos
 
@@ -21,8 +20,9 @@ Existen cientos de DevTools. Hoy veremos:
   `npm -v`
   `node -v`
 
-- **Muchas ganas de aprender!**
+- **Muchas ganas de aprender :exclamation: :exclamation:**
 
 ### Tips
 
 - Tomar notas en un archivo Markdown es genial, y más genial cuando se hace en Github! [Conoce que es Markdown](http://markdown.es/)
+- Ventajas de organizar las dependencias usando Node.js/npm [Link](http://es.stackoverflow.com/a/4175)
