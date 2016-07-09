@@ -1,6 +1,6 @@
 # Node Package Manager
 
-[![Package](../images/npm.svg)](https://www.npmjs.com/)
+[![Package](images/npm.png)](https://www.npmjs.com/)
 
 ## Primero entendamos ¿Qué es un package?
 
