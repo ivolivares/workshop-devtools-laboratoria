@@ -18,7 +18,7 @@ Porque Gulp.js no sólo soluciona este problema sino que le aporta mejoras, conv
 
     npm install --global gulp-cli
 
-## Comprobar intalación
+## Comprobar instalación
 
     gulp -v
 

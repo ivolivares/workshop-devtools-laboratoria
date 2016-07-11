@@ -34,6 +34,11 @@ Algunas aplicaciones útiles para el día a día:
 - [JSON Lint](http://jsonlint.com/) : Validador de formato de JSON.
 - [Emojis para Commit en Github](http://www.emoji-cheat-sheet.com/)
 
+Material adicional:
+
+- [Libro gratuito de Gulp](https://www.syncfusion.com/resources/techportal/details/ebooks/Gulp_Succinctly)
+- [Front-End Handbook](http://www.frontendhandbook.com/)
+
 
 ------------------
 
