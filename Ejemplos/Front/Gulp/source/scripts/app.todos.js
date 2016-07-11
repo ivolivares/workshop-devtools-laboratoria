@@ -5,10 +5,11 @@ var Todos = function() {
   this.getTasks = function(callback) {
       $.ajax({
         method: "GET",
-        url: "http://77.77.76.254:8080/api/todos"
+        url: "http://localhost:8080/api/todos"
       })
       .done(function( tasks ) {
         return callback(tasks);
+        // return typeof callback === 'function' ? callback(tasks) : 0; -> Ejemplo de validación
       });
   };
 
@@ -27,6 +28,6 @@ var Todos = function() {
       });
     }
   };
-}
+};
 
 module.exports = Todos;
