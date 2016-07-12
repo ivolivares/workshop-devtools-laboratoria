@@ -44,7 +44,7 @@ Material adicional:
 
 ## Dudas y Consultas
 
-Si tienes dudas y/o consultas, puedes abrir un issue o (contactarme directamente)[http://www.iolivares.cl]. ¿No sabes que es un issue? Acá te dejo un video: (https://www.youtube.com/watch?v=TJlYiMp8FuY)[https://www.youtube.com/watch?v=TJlYiMp8FuY] :movie_camera:
+Si tienes dudas y/o consultas, puedes abrir un issue o (contactarme directamente)[http://www.iolivares.cl]. ¿No sabes que es un issue? Acá te dejo un video: [https://www.youtube.com/watch?v=TJlYiMp8FuY](https://www.youtube.com/watch?v=TJlYiMp8FuY) :movie_camera:
 
 ------------------
 
