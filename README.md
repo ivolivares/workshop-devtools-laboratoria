@@ -42,6 +42,10 @@ Material adicional:
 - [Getting Started with Browserify](https://scotch.io/tutorials/getting-started-with-browserify)
 - [Beginners Guide: Getting Started with Bower Package Manager](https://www.codementor.io/bower/tutorial/beginner-tutorial-getting-started-bower-package-manager)
 
+## Dudas y Consultas
+
+Si tienes dudas y/o consultas, puedes abrir un issue o (contactarme directamente)[http://www.iolivares.cl]. ¿No sabes que es un issue? Acá te dejo un video: (https://www.youtube.com/watch?v=TJlYiMp8FuY)[https://www.youtube.com/watch?v=TJlYiMp8FuY] :movie_camera:
+
 ------------------
 
 Made with :heart: and :computer:
