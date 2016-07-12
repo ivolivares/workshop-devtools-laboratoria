@@ -31,14 +31,16 @@ Algunas aplicaciones útiles para el día a día:
 
 - [GetPocket](https://getpocket.com/a/queue/) : Para guardar links y acceder a éstos en todos lados.
 - [Google Keep](https://google.com/keep) : Para tomar notas y guardarlas online/offline.
-- [JSON Lint](http://jsonlint.com/) : Validador de formato de JSON.
+- [JSON Lint](http://jsonlint.com/) : Validador de formato para JSON.
 - [Emojis para Commit en Github](http://www.emoji-cheat-sheet.com/)
 
 Material adicional:
 
 - [Libro gratuito de Gulp](https://www.syncfusion.com/resources/techportal/details/ebooks/Gulp_Succinctly)
 - [Front-End Handbook](http://www.frontendhandbook.com/)
-
+- [Artículo: NPM, un gestor de módulos...](https://www.jmramirez.pro/tutorial/npm-gestor-modulos-node-js/)
+- [Getting Started with Browserify](https://scotch.io/tutorials/getting-started-with-browserify)
+- [Beginners Guide: Getting Started with Bower Package Manager](https://www.codementor.io/bower/tutorial/beginner-tutorial-getting-started-bower-package-manager)
 
 ------------------
 
